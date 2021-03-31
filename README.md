@@ -1,5 +1,7 @@
 ### Hi! Welcome! 😄
 
+##[개인블로그](https://academy-in.herokuapp.com)
+
 <!--
 **rnrudxo2872/rnrudxo2872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
